@@ -5,6 +5,8 @@ body{
 }
 p{
     margin: 0;
+    padding-top: 150px;
+    padding-left: 150px;
 }
 a{
     padding-left: 150px;
