@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(218, 242, 240);
+}
+p{
+    margin: 0;
+}
+a{
+    padding-left: 150px;
+    font-size: 30px;
+}
